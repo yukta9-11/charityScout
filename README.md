@@ -1,6 +1,11 @@
+## Architectural Overview
+
+The "CharitySearch" application follows a Mobile-to-Cloud architecture, consisting of three main components:
+1. A native Android mobile app that interacts with the backend via HTTP.
+2. A Java servlet-based backend hosted on Apache Tomcat in GitHub Codespaces.
+3. A web-based logging and analytics dashboard connected to a cloud-hosted MongoDB database.
 
 ![image](https://github.com/user-attachments/assets/26796c6b-75cd-4366-be7e-a79ea4d098e7)
-
 
 ## Technologies Used
 
@@ -43,8 +48,3 @@
 - **Maven** – Managed project dependencies including:
   - `mongodb-driver-sync` for MongoDB connectivity
   - `slf4j-api` and `slf4j-simple` for MongoDB logging
-
-
-
-
-
