@@ -1,3 +1,8 @@
+
+##Architecture Overview
+![image](https://github.com/user-attachments/assets/26796c6b-75cd-4366-be7e-a79ea4d098e7)
+
+
 ## Technologies Used
 
 ### Programming Languages and Frameworks
@@ -42,5 +47,5 @@
 
 
 
-![image](https://github.com/user-attachments/assets/26796c6b-75cd-4366-be7e-a79ea4d098e7)
+
 
